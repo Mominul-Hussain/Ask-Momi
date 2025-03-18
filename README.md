@@ -1,4 +1,4 @@
-# momi CLI Tool
+# AskMomi CLI Tool
 
 ## Overview
 Momi is a command-line interface (CLI) tool that utilizes the Google Gemini API to answer questions and analyze local files. It is designed to work from any directory on Windows 10 and follows security best practices.
@@ -28,16 +28,16 @@ Momi is a command-line interface (CLI) tool that utilizes the Google Gemini API 
    ```
 
 4. **Set up environment variables:**
-   Copy `.env.example` to `.env` and fill in the necessary API keys and configuration settings.
-   generate api key
+   Copy `.env.example` to `.env` and generate api key then replace it with 'your_api_key'.
+   
 
 ## Usage
 
-To use the tool, simply call it from the command line with the keyword `momi` followed by your question or the path to the file you want to analyze.
+To use the tool, simply call it from the command line with the keyword `momi` followed by command then your question or the path to the file you want to analyze.
 
 Example:
 ```
-momi "What is the capital of France?"
+momi query "What is llm"
 ```
 or
 ```
@@ -53,6 +53,3 @@ The tool includes robust error handling to manage issues such as API request fai
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
