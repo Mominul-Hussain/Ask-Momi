@@ -1,0 +1,9 @@
+google-auth
+google-auth-oauthlib
+requests
+python-dotenv
+argparse
+pytest
+Pygments
+markdown
+colorama
