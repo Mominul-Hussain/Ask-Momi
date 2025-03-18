@@ -1,7 +1,7 @@
 # AskMomi CLI Tool
 
 ## Overview
-Momi is a command-line interface (CLI) tool that utilizes the Google Gemini API to answer questions and analyze local files. It is designed to work from any directory on Windows 10 and follows security best practices.
+Momi is a command-line interface (CLI) tool that utilizes the Google Gemini API to answer questions and analyze local files. It is designed to work from any directory.
 
 ## Features
 - Interacts with the Google Gemini API to provide answers to user queries.
