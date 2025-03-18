@@ -12,8 +12,8 @@ Momi is a command-line interface (CLI) tool that utilizes the Google Gemini API 
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/momi-cli.git
-   cd momi-cli
+   git clone https://github.com/Mominul-Hussain/Ask-Momi.git
+   cd Ask-Momi
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
